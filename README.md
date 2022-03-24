@@ -1,5 +1,5 @@
 # VBA-challenge
-The VBA of Wall streets
+The VBA of Wall street
 Requirement:
 Create a script that loops through all the stocks for one year and outputs the following information:
   The ticker symbol.
