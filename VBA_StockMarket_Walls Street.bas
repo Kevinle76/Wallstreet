@@ -1,7 +1,3 @@
-Attribute VB_Name = "Module1"
-
-
-
 Sub Stockmarket()
     For Each ws In Worksheets
     
