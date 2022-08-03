@@ -1,4 +1,4 @@
-# Wall street
+# Wall Street
 
 ## Requirements:
 
